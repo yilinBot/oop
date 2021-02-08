@@ -1,0 +1,38 @@
+In procedural programming, 
+		//- parts of the data is structured into independent units. 
+	- the solution is structured into independent units. 
+
+
+In Object Oriented Programming, 
+	- parts of the data is structured into independent units. 
+		//- the solution is structed into independent units. 
+
+State space: 
+		//- shows the inputs of the given task
+	- shows the inputs and outputs of the given task
+		//- shows the outputs of the given task
+	
+Precodition: 
+	- indicated the inputs of the given task.
+		//- indicated what kind of inputs are accepted the given taks. 
+
+Postcondition: 
+	- indicates what kind of outputs are accepted for the given task.
+		//- assigns the accepted values to the outputs
+	
+Type invariant: 
+		//- has to be satisfied only when the attributes are set at the first time.
+	- has to be satisfied all the time
+
+The set of values: 
+		//- mean the values that the attributes of a certain type have. 
+	- mean all the values that a certain type may have. 
+	
+	//Clearness: the class should not depend on other classes, if possible. 
+	//Correctness: the methods have to cover every functionality of the type.
+Data hiding: the visibility of the elements is restricted. 
+Encapsulation: data and atributs are given as unit. 
+
+Black box: test cases based on the specification.
+White box: test cases based on the code. 
+Grey box: test cases based on a predicted algorithm from the executive specification
