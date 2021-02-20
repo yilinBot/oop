@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550834536 source:c:\users\pinter\documents\practice2\point.cpp
+	"point.h"
+
+1550834390 c:\users\pinter\documents\practice2\point.h
+
+1550834667 source:c:\users\pinter\documents\practice2\main.cpp
+	<iostream>
+	"point.h"
+
+1550835768 source:c:\users\pinter\documents\practice2\circle.cpp
+	<cmath>
+	"circle.h"
+
+1550835334 c:\users\pinter\documents\practice2\circle.h
+	"point.h"
+

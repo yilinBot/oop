@@ -1,0 +1,41 @@
+1. Choose the correct statements about object. 
+In programming: 
+- an object is memory allocation. 
+-objects can be considered as variables. 
+In Modelling: 
+- data of an object can be handled through its methods. 
+-object is separate part of the data. 
+				
+		
+2. Choose the correct statements about UML notation of objects.
+	UML: 
+		- data and opertaions are described by attributes and methods.
+		- objects always have a state.
+										-data and opertaions are described by type and specification.
+										-objects always have a name. 
+		
+3. Choose the correct statements. 
+	In programming  : 
+		- objects are created through their constructor and destroyed by their destructor. 
+						- the memory allocation of an object can be accessed directly. 
+						-classes and modules are often responsible for multiple things.  (one) 
+			
+----------------------------------3 points 
+	
+
+4. Choose the correct statements about UML class diagrams. 
+		-			 Attributes and methods can have two types of visibility: public or private. 
+					- In planning, it is obligatory to denote the constraints of an attribute if it has. 
+- Template clases have extra parameters. 
+					- A UML class diagram of one class may have 4 parts: class name; attributes; methods; and dependencies. 
+	
+5. Choose the correct statements: 
+								//- Foreach loop can be used instead of a standard for loop anytime. 
+	- Classes can have methods that can be called even if the class is not instantiated yet. 
+	- An object can always see and modify its own attributes. (constant) 
+	- Expections indicate the error but not handle them.		
+	
+
+	
+
+
