@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1551735821 source:/home/bli/projects/Cactus/cactusenor.cpp
+	<cstdlib>
+	<sstream>
+	"cactusenor.h"
+
+1551735690 /home/bli/projects/Cactus/cactusenor.h
+	<fstream>
+	"cactus.h"
+
+1551735641 /home/bli/projects/Cactus/cactus.h
+	<string>
+
+1551735839 source:/home/bli/projects/Cactus/outfile.cpp
+	<iostream>
+	<cstdlib>
+	"outfile.h"
+
+1551735690 /home/bli/projects/Cactus/outfile.h
+	"cactus.h"
+	<fstream>
+	<string>
+
+1551735822 source:/home/bli/projects/Cactus/infile.cpp
+	"infile.h"
+	<iostream>
+	<cstdlib>
+	<sstream>
+
+1551735690 /home/bli/projects/Cactus/infile.h
+	"cactus.h"
+	<fstream>
+	<string>
+
+1551736020 source:/home/bli/projects/Cactus/main.cpp
+	<iostream>
+	"cactus.h"
+	"cactusenor.h"
+	"outfile.h"
+	"infile.h"
+

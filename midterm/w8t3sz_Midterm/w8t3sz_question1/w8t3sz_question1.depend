@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617960504 source:/home/yilin/Downloads/w8t3sz_Midterm/w8t3sz_question1/enor.cpp
+	"enor.h"
+
+1617960338 /home/yilin/Downloads/w8t3sz_Midterm/w8t3sz_question1/enor.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+
+1617960582 source:/home/yilin/Downloads/w8t3sz_Midterm/w8t3sz_question1/main.cpp
+	<iostream>
+	"enor.h"
+

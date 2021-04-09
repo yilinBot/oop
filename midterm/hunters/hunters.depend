@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1585067001 source:/home/bli/dbx/Dropbox/oktatas/oep/2020/hunters/enor.cpp
+	"enor.h"
+
+1585067020 /home/bli/dbx/Dropbox/oktatas/oep/2020/hunters/enor.h
+	<string>
+	<fstream>
+
+1585066699 source:/home/bli/dbx/Dropbox/oktatas/oep/2020/hunters/main.cpp
+	<iostream>
+	"enor.h"
+
+1585067000 source:/home/yilin/Downloads/hunters/enor.cpp
+	"enor.h"
+
+1585067020 /home/yilin/Downloads/hunters/enor.h
+	<string>
+	<fstream>
+
+1585066698 source:/home/yilin/Downloads/hunters/main.cpp
+	<iostream>
+	"enor.h"
+

@@ -1,0 +1,1368 @@
+cscope 15 $HOME/projects/Cactus               0000005983
+	@/home/bli/projects/Cactus/cactus.h
+
+4 #i‚de‡
+_KAKTUSZ_H_
+
+
+5 
+	#_KAKTUSZ_H_
+
+
+	)
+
+7 
+	~<°rög
+>
+
+10 
+	sKaktusz
+{
+
+11 
+	m°d
+::
+°rög
+ 
+√v
+;
+
+12 
+	m°d
+::
+°rög
+ 
+oshaza
+;
+
+13 
+	m°d
+::
+°rög
+ 
+vúagszö
+;
+
+14 
+	mmîë
+;
+
+	@/home/bli/projects/Cactus/cactusenor.cpp
+
+7 
+	~<c°dlib
+>
+
+8 
+	~<s°ªam
+>
+
+9 
+	~"ˇ˘u£n‹.h
+"
+
+11 
+	gKaktuszEn‹
+::
+	$KaktuszEn‹
+(
+°d
+::
+°rög
+ 
+fûíame
+){
+
+12 
+f
+.
+	`›í
+(
+fûíame
+.
+	`c_°r
+());
+
+13 if(
+f
+.
+	`Áû
+()){
+
+14 
+throw
+ 
+FILEERROR
+;
+
+16 
+	}
+}
+
+18 
+	gKaktuszEn‹
+::
+	$√xt
+(){
+
+19 
+°d
+::
+°rög
+ 
+s‹
+;
+
+20 
+	`gëlöe
+(
+f
+, 
+s‹
+);
+
+21 i‡(!
+f
+.
+	`Áû
+(Ë&& 
+s‹
+ != "") {
+
+22 
+sx
+ = 
+n‹m
+;
+
+23 
+°d
+::
+°rög°ªam
+ 
+	`ss
+(
+s‹
+);
+
+24 
+ss
+ >> 
+dx
+.
+√v
+;
+
+25 
+ss
+ >> 
+dx
+.
+oshaza
+;
+
+26 
+ss
+ >> 
+dx
+.
+vúagszö
+;
+
+27 
+ss
+ >> 
+dx
+.
+mîë
+;
+
+30 
+sx
+ = 
+abn‹m
+;
+
+32 
+	}
+}
+
+	@/home/bli/projects/Cactus/cactusenor.h
+
+7 #i‚de‡
+_KAKTUSZ_ENOR_H_
+
+
+8 
+	#_KAKTUSZ_ENOR_H_
+
+
+	)
+
+10 
+	~<f°ªam
+>
+
+11 
+	~"ˇ˘us.h
+"
+
+14 ˛as†
+	cKaktuszEn‹
+{
+
+15 
+	mpublic
+:
+
+16 
+	eSètus
+{
+abn‹m
+,
+	mn‹m
+};
+
+17 
+	eEx˚±i⁄s
+{
+	gFILEERROR
+};
+
+19 
+KaktuszEn‹
+(
+°d
+::
+°rög
+ 
+fûíame
+ = "");
+
+20 
+	$fú°
+(Ë{
+	`√xt
+();
+	}
+}
+
+21 
+√xt
+();
+
+22 
+Kaktusz
+ 
+	$cuºít
+(Ëc⁄° {  
+dx
+;
+	}
+}
+
+23 
+boﬁ
+ 
+	$íd
+(Ëc⁄° { 
+sx
+==
+abn‹m
+;
+	}
+}
+
+24 
+	g¥iv©e
+:
+
+25 
+Kaktusz
+ 
+dx
+;
+
+26 
+Sètus
+ 
+	gsx
+;
+
+27 
+	g°d
+::
+if°ªam
+ 
+f
+;
+
+	@/home/bli/projects/Cactus/infile.cpp
+
+7 
+	~"öfûe.h
+"
+
+8 
+	~<io°ªam
+>
+
+9 
+	~<c°dlib
+>
+
+10 
+	~<s°ªam
+>
+
+12 
+	gInFûe
+::
+	$InFûe
+(
+°d
+::
+°rög
+ 
+fûíame
+){
+
+13 
+f
+.
+	`›í
+(
+fûíame
+.
+	`c_°r
+());
+
+14 if(
+f
+.
+	`Áû
+()){
+
+15 
+throw
+ 
+FILEERROR
+;
+
+17 
+	}
+}
+
+19 
+boﬁ
+ 
+	gInFûe
+::
+	$ªad
+(
+Kaktusz
+ &
+dx
+, 
+Sètus
+ &
+sx
+){
+
+20 
+°d
+::
+°rög
+ 
+s‹
+;
+
+21 
+	`gëlöe
+(
+f
+, 
+s‹
+);
+
+22 i‡(!
+f
+.
+	`Áû
+(Ë&& 
+s‹
+ != "") {
+
+23 
+sx
+ = 
+n‹m
+;
+
+24 
+°d
+::
+°rög°ªam
+ 
+	`ss
+(
+s‹
+);
+
+25 
+ss
+ >> 
+dx
+.
+√v
+;
+
+26 
+ss
+ >> 
+dx
+.
+oshaza
+;
+
+27 
+ss
+ >> 
+dx
+.
+vúagszö
+;
+
+28 
+ss
+ >> 
+dx
+.
+mîë
+;
+
+31 
+sx
+ = 
+abn‹m
+;
+
+34  
+n‹m
+==
+sx
+;
+
+35 
+	}
+}
+
+	@/home/bli/projects/Cactus/infile.h
+
+9 #i‚de‡
+_INFILE_KAKTUSZ_H_
+
+
+10 
+	#_INFILE_KAKTUSZ_H_
+
+
+	)
+
+12 
+	~"ˇ˘us.h
+"
+
+13 
+	~<f°ªam
+>
+
+14 
+	~<°rög
+>
+
+17 ˛as†
+	cInFûe
+{
+
+18 
+	mpublic
+:
+
+19 
+	eSètus
+ {
+abn‹m
+,
+	mn‹m
+};
+
+20 
+	eEx˚±i⁄s
+{
+	gFILEERROR
+};
+
+22 
+InFûe
+(
+°d
+::
+°rög
+ 
+fûíame
+ = "");
+
+23 
+boﬁ
+ 
+ªad
+(
+Kaktusz
+ &
+dx
+, 
+Sètus
+ &
+sx
+);
+
+24 
+	g¥iv©e
+:
+
+25 
+°d
+::
+if°ªam
+ 
+f
+;
+
+	@/home/bli/projects/Cactus/main.cpp
+
+16 
+	~<io°ªam
+>
+
+17 
+	~"ˇ˘us.h
+"
+
+18 
+	~"ˇ˘u£n‹.h
+"
+
+19 
+	~"outfûe.h
+"
+
+20 
+	~"öfûe.h
+"
+
+22 
+MexiˇnRedEn‹
+(c⁄° 
+°d
+::
+°rög
+&);
+
+23 
+MexiˇnAndRedEn‹
+(c⁄° 
+°d
+::
+°rög
+&);
+
+24 
+MexiˇnRedFûe
+(c⁄° 
+°d
+::
+°rög
+&);
+
+26 
+	$maö
+()
+
+30 
+	`MexiˇnRedFûe
+("inp.txt");
+
+32 
+	}
+}
+
+34 
+	$MexiˇnRedFûe
+(c⁄° 
+°d
+::
+°rög
+& 
+öputFûe
+){
+
+35 
+InFûe
+ 
+	`öput
+(
+öputFûe
+);
+
+36 
+OutFûe
+ 
+	`mexicoFûe
+("mexico.txt");
+
+37 
+OutFûe
+ 
+	`púosFûe
+("red.txt");
+
+39 
+Kaktusz
+ 
+dx
+;
+
+40 
+InFûe
+::
+Sètus
+ 
+sx
+;
+
+41 
+öput
+.
+	`ªad
+(
+dx
+,
+sx
+)){
+
+42 if(
+dx
+.
+oshaza
+ == "Mexico"){
+
+43 
+mexicoFûe
+.
+	`wrôe
+(
+dx
+);
+
+45 if(
+dx
+.
+vúagszö
+ == "red"){
+
+46 
+púosFûe
+.
+	`wrôe
+(
+dx
+);
+
+49 
+	}
+}
+
+51 
+	$MexiˇnRedEn‹
+(c⁄° 
+°d
+::
+°rög
+& 
+öputFûe
+){
+
+52 
+KaktuszEn‹
+ 
+	`x
+(
+öputFûe
+);
+
+53 
+OutFûe
+ 
+	`mexicoFûe
+("mexico.txt");
+
+54 
+OutFûe
+ 
+	`púosFûe
+("red.txt");
+
+56 
+Kaktusz
+ 
+dx
+;
+
+57 
+x
+.
+	`fú°
+();
+
+58 !
+x
+.
+	`íd
+()){
+
+59 
+dx
+ = 
+x
+.
+	`cuºít
+();
+
+60 if(
+dx
+.
+oshaza
+ == "Mexico"){
+
+61 
+mexicoFûe
+.
+	`wrôe
+(
+dx
+);
+
+63 if(
+dx
+.
+vúagszö
+ == "red"){
+
+64 
+púosFûe
+.
+	`wrôe
+(
+dx
+);
+
+66 
+x
+.
+	`√xt
+();
+
+68 
+	}
+}
+
+70 
+	$MexiˇnAndRedEn‹
+(c⁄° 
+°d
+::
+°rög
+& 
+öputFûe
+){
+
+71 
+KaktuszEn‹
+ 
+	`x
+(
+öputFûe
+);
+
+72 
+OutFûe
+ 
+	`mexicoFûe
+("mexico.txt");
+
+73 
+OutFûe
+ 
+	`púosFûe
+("red.txt");
+
+74 
+OutFûe
+ 
+	`mexic›úosFûe
+("mexicored.txt");
+
+76 
+Kaktusz
+ 
+dx
+;
+
+77 
+x
+.
+	`fú°
+();
+
+78 !
+x
+.
+	`íd
+()){
+
+79 
+dx
+ = 
+x
+.
+	`cuºít
+();
+
+80 if(
+dx
+.
+oshaza
+ == "mexico"){
+
+81 
+mexicoFûe
+.
+	`wrôe
+(
+dx
+);
+
+83 if(
+dx
+.
+vúagszö
+ == "red"){
+
+84 
+púosFûe
+.
+	`wrôe
+(
+dx
+);
+
+86 if(
+dx
+.
+vúagszö
+ ="ªd" && dx.
+oshaza
+ == "mexico"){
+
+87 
+mexic›úosFûe
+.
+	`wrôe
+(
+dx
+);
+
+89 
+x
+.
+	`√xt
+();
+
+91 
+	}
+}
+
+	@/home/bli/projects/Cactus/outfile.cpp
+
+7 
+	~<io°ªam
+>
+
+8 
+	~<c°dlib
+>
+
+9 
+	~"outfûe.h
+"
+
+12 
+	gOutFûe
+::
+	$OutFûe
+(c⁄° 
+°d
+::
+°rög
+& 
+fûíame
+)
+
+14 
+f
+.
+	`›í
+(
+fûíame
+.
+	`c_°r
+());
+
+15 if(
+f
+.
+	`Áû
+()){
+
+16 
+throw
+ 
+FILEERROR
+;
+
+18 
+	}
+}
+
+21 
+	gOutFûe
+::
+	$wrôe
+(c⁄° 
+Kaktusz
+ &
+dx
+)
+
+23 
+f
+ << 
+dx
+.
+√v
+ << 
+°d
+::
+ídl
+;
+
+24 
+	}
+}
+
+	@/home/bli/projects/Cactus/outfile.h
+
+7 #i‚de‡
+_OUTFILE_KAKTUSZ_H_
+
+
+8 
+	#_OUTFILE_KAKTUSZ_H_
+
+
+	)
+
+10 
+	~"ˇ˘us.h
+"
+
+11 
+	~<f°ªam
+>
+
+12 
+	~<°rög
+>
+
+14 ˛as†
+	cOutFûe
+{
+
+15 
+	mpublic
+:
+
+16 
+	eEx˚±i⁄s
+{
+FILEERROR
+};
+
+18 
+OutFûe
+(c⁄° 
+°d
+::
+°rög
+& 
+fûíame
+);
+
+19 
+wrôe
+(c⁄° 
+Kaktusz
+ &
+dx
+);
+
+20 
+	g¥iv©e
+:
+
+21 
+°d
+::
+of°ªam
+ 
+f
+;
+
+	@cactus.h
+
+4 #i‚de‡
+_KAKTUSZ_H_
+
+
+5 
+	#_KAKTUSZ_H_
+
+
+	)
+
+7 
+	~<°rög
+>
+
+10 
+	sKaktusz
+{
+
+11 
+	m°d
+::
+°rög
+ 
+√v
+;
+
+12 
+	m°d
+::
+°rög
+ 
+oshaza
+;
+
+13 
+	m°d
+::
+°rög
+ 
+vúagszö
+;
+
+14 
+	mmîë
+;
+
+	@cactusenor.h
+
+7 #i‚de‡
+_KAKTUSZ_ENOR_H_
+
+
+8 
+	#_KAKTUSZ_ENOR_H_
+
+
+	)
+
+10 
+	~<f°ªam
+>
+
+11 
+	~"ˇ˘us.h
+"
+
+14 ˛as†
+	cKaktuszEn‹
+{
+
+15 
+	mpublic
+:
+
+16 
+	eSètus
+{
+abn‹m
+,
+	mn‹m
+};
+
+17 
+	eEx˚±i⁄s
+{
+	gFILEERROR
+};
+
+19 
+KaktuszEn‹
+(
+°d
+::
+°rög
+ 
+fûíame
+ = "");
+
+20 
+	$fú°
+(Ë{
+	`√xt
+();
+	}
+}
+
+21 
+√xt
+();
+
+22 
+Kaktusz
+ 
+	$cuºít
+(Ëc⁄° {  
+dx
+;
+	}
+}
+
+23 
+boﬁ
+ 
+	$íd
+(Ëc⁄° { 
+sx
+==
+abn‹m
+;
+	}
+}
+
+24 
+	g¥iv©e
+:
+
+25 
+Kaktusz
+ 
+dx
+;
+
+26 
+Sètus
+ 
+	gsx
+;
+
+27 
+	g°d
+::
+if°ªam
+ 
+f
+;
+
+	@infile.h
+
+9 #i‚de‡
+_INFILE_KAKTUSZ_H_
+
+
+10 
+	#_INFILE_KAKTUSZ_H_
+
+
+	)
+
+12 
+	~"ˇ˘us.h
+"
+
+13 
+	~<f°ªam
+>
+
+14 
+	~<°rög
+>
+
+17 ˛as†
+	cInFûe
+{
+
+18 
+	mpublic
+:
+
+19 
+	eSètus
+ {
+abn‹m
+,
+	mn‹m
+};
+
+20 
+	eEx˚±i⁄s
+{
+	gFILEERROR
+};
+
+22 
+InFûe
+(
+°d
+::
+°rög
+ 
+fûíame
+ = "");
+
+23 
+boﬁ
+ 
+ªad
+(
+Kaktusz
+ &
+dx
+, 
+Sètus
+ &
+sx
+);
+
+24 
+	g¥iv©e
+:
+
+25 
+°d
+::
+if°ªam
+ 
+f
+;
+
+	@outfile.h
+
+7 #i‚de‡
+_OUTFILE_KAKTUSZ_H_
+
+
+8 
+	#_OUTFILE_KAKTUSZ_H_
+
+
+	)
+
+10 
+	~"ˇ˘us.h
+"
+
+11 
+	~<f°ªam
+>
+
+12 
+	~<°rög
+>
+
+14 ˛as†
+	cOutFûe
+{
+
+15 
+	mpublic
+:
+
+16 
+	eEx˚±i⁄s
+{
+FILEERROR
+};
+
+18 
+OutFûe
+(c⁄° 
+°d
+::
+°rög
+& 
+fûíame
+);
+
+19 
+wrôe
+(c⁄° 
+Kaktusz
+ &
+dx
+);
+
+20 
+	g¥iv©e
+:
+
+21 
+°d
+::
+of°ªam
+ 
+f
+;
+
+	@
+1
+.
+1
+/usr/include
+12
+337
+/home/bli/projects/Cactus/cactus.h
+/home/bli/projects/Cactus/cactusenor.cpp
+/home/bli/projects/Cactus/cactusenor.h
+/home/bli/projects/Cactus/infile.cpp
+/home/bli/projects/Cactus/infile.h
+/home/bli/projects/Cactus/main.cpp
+/home/bli/projects/Cactus/outfile.cpp
+/home/bli/projects/Cactus/outfile.h
+cactus.h
+cactusenor.h
+infile.h
+outfile.h

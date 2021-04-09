@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586958690 source:c:\teri\elte\oktatás\oop\8\1.zh\infile.cpp
+	"inFile.h"
+
+1586957262 c:\teri\elte\oktatás\oop\8\1.zh\infile.h
+	<fstream>
+	<vector>
+	<sstream>
+	<iostream>
+
+1586958954 source:c:\teri\elte\oktatás\oop\8\1.zh\main.cpp
+	"inFile.h"
+

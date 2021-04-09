@@ -1,0 +1,9 @@
+John rabbit 20
+Charles rabbit 10
+Charles rabbit 10
+Alexander deer 100
+Alexander rabbit 500
+Alexander bear 300
+Alexander chupacabra 300
+ZOLTAN yeti 500
+ZOLTAN rabbit 343

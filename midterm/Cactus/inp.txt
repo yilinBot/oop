@@ -1,0 +1,6 @@
+Spiky Mexico red 5
+Shiny Hungary blue 2
+Tall USA red 12
+Small Mexico blue 3
+Big Russia red 20
+Cold Mexico blue 4

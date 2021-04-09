@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1553333658 source:g:\oep\06.Összefut\numbers\main.cpp
+	<iostream>
+	"enor.h"
+
+1584516667 
+
+1553333310 g:\oep\06.Összefut\numbers\enor.h
+	<fstream>
+
+1553333576 source:g:\oep\06.Összefut\numbers\enor.cpp
+	"enor.h"
+
+1553333658 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\04-07.gyakorlat\numbers\main.cpp
+	<iostream>
+	"enor.h"
+
+1584516687 c:\users\tibi\documents\oktat\oep\gyakorlatok\04-07.gyakorlat\numbers\enor.h
+	<fstream>
+
+1584516667 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\04-07.gyakorlat\numbers\enor.cpp
+	"enor.h"
+
+1584516666 source:/home/yilin/Downloads/numbers (1)/enor.cpp
+	"enor.h"
+
+1584516686 /home/yilin/Downloads/numbers (1)/enor.h
+	<fstream>
+
+1584516976 source:/home/yilin/Downloads/numbers (1)/main.cpp
+	<iostream>
+	"enor.h"
+

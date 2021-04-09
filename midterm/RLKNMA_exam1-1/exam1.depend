@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1555094696 source:c:\users\rlknma\desktop\exam1\src\main.cpp
+	<iostream>
+	"Result.hpp"
+	"Entry.hpp"
+
+1555094333 source:c:\users\rlknma\desktop\exam1\src\entry.cpp
+	<sstream>
+	"Entry.hpp"
+
+1555091608 c:\users\rlknma\desktop\exam1\include\entry.hpp
+	<fstream>
+	<vector>
+
+1555093176 source:c:\users\rlknma\desktop\exam1\src\result.cpp
+	"Result.hpp"
+	"Student.hpp"
+
+1555091808 c:\users\rlknma\desktop\exam1\include\result.hpp
+	<string>
+	<vector>
+
+1555094174 source:c:\users\rlknma\desktop\exam1\src\student.cpp
+	"Student.hpp"
+
+1555091811 c:\users\rlknma\desktop\exam1\include\student.hpp
+	"Subject.hpp"
+
+1555094085 c:\users\rlknma\desktop\exam1\include\subject.hpp
+	"Entry.hpp"
+
+1555094114 source:c:\users\rlknma\desktop\exam1\src\subject.cpp
+	"Subject.hpp"
+
