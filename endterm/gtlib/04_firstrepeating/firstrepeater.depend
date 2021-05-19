@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1516033932 source:e:\oop\0122\firstrepeater\main.cpp
+	<iostream>
+	<vector>
+	"library/seqinfileenumerator.hpp"
+	"library/intervallenumerator.hpp"
+	"library/linsearch.hpp"
+	"library/summation.hpp"
+
+1525329548 ummation.hpp"
+
+1502814352 e:\oop\0122\firstrepeater\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1536086078 r.hpp"
+
+1502810830 e:\oop\0122\firstrepeater\library\enumerator.hpp
+
+1516034310 e:\oop\0122\firstrepeater\library\intervallenumerator.hpp
+	"enumerator.hpp"
+
+1502814932 e:\oop\0122\firstrepeater\library\linsearch.hpp
+	"procedure.hpp"
+
+1555578898 .hpp"
+
+1510737978 e:\oop\0122\firstrepeater\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502814932 e:\oop\0122\firstrepeater\library\summation.hpp
+	"procedure.hpp"
+
+1516447097 source:c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\main.cpp
+	<iostream>
+	<vector>
+	"library/seqinfileenumerator.hpp"
+	"library/intervallenumerator.hpp"
+	"library/linsearch.hpp"
+	"library/summation.hpp"
+
+1502814352 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1502810830 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\library\enumerator.hpp
+
+1516034310 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\library\intervallenumerator.hpp
+	"enumerator.hpp"
+
+1502814932 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\library\linsearch.hpp
+	"procedure.hpp"
+
+1510737978 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502814932 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\firstrepeater\library\summation.hpp
+	"procedure.hpp"
+
+1525329548 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\firstrepeater\main.cpp
+	<iostream>
+	<vector>
+	"library/seqinfileenumerator.hpp"
+	"library/intervalenumerator.hpp"
+	"library/linsearch.hpp"
+	"library/summation.hpp"
+
+1555934592 source:c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\firstrepeater\main.cpp
+	<iostream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/intervalenumerator.hpp"
+	"../library/linsearch.hpp"
+	"../library/summation.hpp"
+	"../library/arrayenumerator.hpp"
+
+1555934592 y/arrayenumerator.hpp"
+
+1535995980 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\enumerator.hpp
+
+1536082478 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\intervalenumerator.hpp
+	"enumerator.hpp"
+
+1539603554 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\linsearch.hpp
+	"procedure.hpp"
+
+1542978440 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1539494642 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1547543802 
+
+1542982540 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\arrayenumerator.hpp
+	"enumerator.hpp"
+	<vector>
+
+1555581620 
+
+1535999580 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502814430 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1536086078 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\intervalenumerator.hpp
+	"enumerator.hpp"
+
+1555578898 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\linsearch.hpp
+	"procedure.hpp"
+
+1555652084 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1547543802 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555581620 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\arrayenumerator.hpp
+	"enumerator.hpp"
+	<vector>
+
+1587843180 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/04_firstrepeating/main.cpp
+	<iostream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/intervalenumerator.hpp"
+	"../library/linsearch.hpp"
+	"../library/summation.hpp"
+	"../library/arrayenumerator.hpp"
+
+1560179196 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/enumerator.hpp
+
+1536082478 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/intervalenumerator.hpp
+	"enumerator.hpp"
+
+1560177998 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/linsearch.hpp
+	"procedure.hpp"
+
+1555648484 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1558950110 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555578020 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/arrayenumerator.hpp
+	"enumerator.hpp"
+	<vector>
+

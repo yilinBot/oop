@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1516031408 source:e:\oop\0122\beststudent\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"library/maxsearch.hpp"
+	"library/summation.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/arrayenumerator.hpp"
+
+1516446446 rrayenumerator.hpp"
+
+1502814932 e:\oop\0122\beststudent\library\maxsearch.hpp
+	"procedure.hpp"
+
+1547542000 .hpp"
+
+1510737978 e:\oop\0122\beststudent\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1554937224 r.hpp"
+
+1502810830 e:\oop\0122\beststudent\library\enumerator.hpp
+
+1502814932 e:\oop\0122\beststudent\library\summation.hpp
+	"procedure.hpp"
+
+1502814352 e:\oop\0122\beststudent\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1502814352 e:\oop\0122\beststudent\library\arrayenumerator.hpp
+	"enumerator.hpp"
+	<vector>
+
+1555652084 
+
+1516446446 source:c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"library/maxsearch.hpp"
+	"library/summation.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/arrayenumerator.hpp"
+
+1502814932 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\library\maxsearch.hpp
+	"procedure.hpp"
+
+1510737978 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502810830 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\library\enumerator.hpp
+
+1502814932 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\library\summation.hpp
+	"procedure.hpp"
+
+1502814352 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1502814352 c:\users\grego\documents\oktat\oep\gyakorlatok\újrafelhasználás\beststudentce\library\arrayenumerator.hpp
+	"enumerator.hpp"
+	<vector>
+
+1543484866 source:c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentce\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/stringstreamenumerator.hpp"
+	"../library/maxsearch.hpp"
+	"../library/summation.hpp"
+
+1543484866 y/summation.hpp"
+
+1535995980 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\enumerator.hpp
+
+1536082566 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1539603706 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\maxsearch.hpp
+	"procedure.hpp"
+
+1542978440 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1539494642 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1547543802 
+
+1535999580 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502814430 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1554937224 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1547542000 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\maxsearch.hpp
+	"procedure.hpp"
+
+1555652084 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1547543802 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1587844415 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/05_beststudent/main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/stringstreamenumerator.hpp"
+	"../library/maxsearch.hpp"
+	"../library/summation.hpp"
+
+1560179196 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/enumerator.hpp
+
+1554933624 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1547542000 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/maxsearch.hpp
+	"procedure.hpp"
+
+1555648484 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1558950110 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+

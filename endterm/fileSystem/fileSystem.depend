@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1555086531 source:/home/bli/projects/fileSystem/Directory.cpp
+	"Directory.h"
+	<iostream>
+
+1555086537 /home/bli/projects/fileSystem/Directory.h
+	"Entry.h"
+
+1555084974 /home/bli/projects/fileSystem/Entry.h
+	<vector>
+	<string>
+
+1555086438 source:/home/bli/projects/fileSystem/File.cpp
+	"File.h"
+
+1555086596 /home/bli/projects/fileSystem/File.h
+	"Entry.h"
+	<iostream>
+
+1555085833 source:/home/bli/projects/fileSystem/System.cpp
+	"System.h"
+	<iostream>
+
+1555083065 /home/bli/projects/fileSystem/System.h
+	"Entry.h"
+
+1555223471 source:/home/bli/projects/fileSystem/main.cpp
+	<iostream>
+	"System.h"
+	"Directory.h"
+	"File.h"
+

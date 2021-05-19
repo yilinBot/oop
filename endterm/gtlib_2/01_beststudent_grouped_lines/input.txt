@@ -1,0 +1,10 @@
+Aladar OEP ex1 2 pex1 1 ex2 4 pex2 5 assignment 5
+Aladar Algo ex1 3 ex2 5
+Irma OEP ex1 2 pex1 3 ex2 4 pex2 5 assignment 4
+Irma Algo ex1 3 ex2 3
+Jolan OEP ex1 2 pex1 3 ex2 4 pex2 5 assignment 5
+Jolan Algo ex1 3 ex2 3
+Karcsi OEP ex1 2 pex1 3 ex2 4 pex2 5 assignment 5
+Karcsi EVA1 assignment1 5 assignment2 5 assignment3 4 ZH 5
+Lajos OEP ex1 2 pex1 3 ex2 4 pex2 5 assignment 5
+Lajos Algo ex1 3 ex2 3

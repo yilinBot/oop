@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1542902883 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\assortment\main.cpp
+	<iostream>
+	<string>
+	"../library/seqinfileenumerator.hpp"
+	"../library/summation.hpp"
+
+1556878074 y/summation.hpp"
+
+1526897598 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\assortment\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1535999580 r.hpp"
+
+1502810830 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\assortment\library\enumerator.hpp
+
+1522748222 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\assortment\library\summation.hpp
+	"procedure.hpp"
+
+1522748222 .hpp"
+
+1522748394 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\assortment\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1542902246 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1542901612 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1547543802 
+
+1541874282 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1556878074 source:c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\assortment\main.cpp
+	<iostream>
+	<string>
+	"../library/seqinfileenumerator.hpp"
+	"../library/summation.hpp"
+
+1535999580 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502814430 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1547543802 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555652084 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1555652084 
+
+1587627108 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/03_assortment/main.cpp
+	<iostream>
+	<string>
+	"../library/seqinfileenumerator.hpp"
+	"../library/summation.hpp"
+
+1560179196 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/enumerator.hpp
+
+1558950110 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555648484 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+

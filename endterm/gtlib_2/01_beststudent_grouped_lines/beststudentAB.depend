@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1588605063 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/main.cpp
+	<iostream>
+	"library/enumerator.hpp"
+	"library/linsearch.hpp"
+	"library/maxsearch.hpp"
+	"library/counting.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/stringstreamenumerator.hpp"
+
+1502807230 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/enumerator.hpp
+
+1539599952 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/linsearch.hpp
+	"procedure.hpp"
+
+1547568396 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1547542000 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/maxsearch.hpp
+	"procedure.hpp"
+
+1537804148 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/counting.hpp
+	"summation.hpp"
+
+1547543802 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1535992378 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1547848848 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/01_beststudent_grouped_lines/library/stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+

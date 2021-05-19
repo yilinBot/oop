@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1589020720 source:/home/bli/Dropbox/oktatas/oep/2020/new/zhD3/main.cpp
+	<iostream>
+	"library/seqinfileenumerator.hpp"
+	"library/summation.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/linsearch.hpp"
+
+1535995980 /home/bli/Dropbox/oktatas/oep/2020/new/zhD3/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 /home/bli/Dropbox/oktatas/oep/2020/new/zhD3/library/enumerator.hpp
+
+1587719238 /home/bli/Dropbox/oktatas/oep/2020/new/zhD3/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555648484 /home/bli/Dropbox/oktatas/oep/2020/new/zhD3/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1554933624 /home/bli/Dropbox/oktatas/oep/2020/new/zhD3/library/stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1555575298 /home/bli/Dropbox/oktatas/oep/2020/new/zhD3/library/linsearch.hpp
+	"procedure.hpp"
+

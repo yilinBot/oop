@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1516443702 source:e:\oep\beststudentab\main.cpp
+	<iostream>
+	"library/enumerator.hpp"
+	"library/maxsearch.hpp"
+	"library/summation.hpp"
+	"library/seqinfileenumerator.hpp"
+
+1502810830 e:\oep\beststudentab\library\enumerator.hpp
+
+1502814932 e:\oep\beststudentab\library\maxsearch.hpp
+	"procedure.hpp"
+
+1502813650 e:\oep\beststudentab\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502814932 e:\oep\beststudentab\library\summation.hpp
+	"procedure.hpp"
+
+1502814352 e:\oep\beststudentab\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1557756792 source:c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentab\main.cpp
+	<iostream>
+	"../library/enumerator.hpp"
+	"../library/maxsearch.hpp"
+	"../library/summation.hpp"
+	"../library/seqinfileenumerator.hpp"
+
+1502814430 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentab\library\enumerator.hpp
+
+1522751820 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentab\library\maxsearch.hpp
+	"procedure.hpp"
+
+1522751993 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentab\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1522751820 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentab\library\summation.hpp
+	"procedure.hpp"
+
+1502817952 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\beststudentab\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1502814430 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1547542000 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\maxsearch.hpp
+	"procedure.hpp"
+
+1555652084 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1547543802 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1535999580 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+

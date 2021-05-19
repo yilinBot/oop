@@ -1,0 +1,40 @@
+Aladar1 PPKE highjump 21 run100 25
+Aladar2 PPKE highjump 22 run100 26
+Aladar3 PPKE highjump 23 run100 27
+Aladar4 PPKE highjump 24 run100 28
+Aladar5 PPKE highjump 25 run100 29
+Aladar6 PPKE highjump 26 run100 30
+Aladar7 PPKE highjump 27 futas100 31
+Aladar8 PPKE highjump 28 run100 32
+Aladar9 PPKE highjump 29 run100 33
+Aladar10 PPKE highjump 30 run100 34
+Aladar11 PPKE highjump 31 run100 35
+Aladar12 PPKE highjump 32 run100 36
+Aladar13 PPKE run200 1 tavolugras 1
+Aladar14 PPKE run200 2 swimming 2
+Aladar15 PPKE run200 3 swimming 3
+Aladar16 PPKE run200 4 swimming 4
+Aladar17
+Bela1 OE highjump 1 run100 2
+Bela2 OE highjump 2 run100 3
+Bela3 OE highjump 3 run100 4
+Bela4 OE highjump 4 run100 5
+Bela5 OE highjump 5 run100 6
+Bela6 OE highjump 6 run100 7
+Bela7 OE highjump 7 run100 8
+Bela8 OE highjump 8 run100 9
+Bela9 OE highjump 9 run100 10
+Bela10 OE run100 11
+Peter1 ELTE highjump 10 run100 12
+Peter2 ELTE highjump 11 run100 13
+Peter3 ELTE highjump 12 run100 14
+Peter4 ELTE highjump 13 run100 15
+Peter5 ELTE highjump 14 run100 16
+Peter6 ELTE highjump 15 run100 17
+Peter7 ELTE highjump 16 run100 18
+Peter8 ELTE highjump 17 run100 19
+Peter9 ELTE highjump 18 run100 20
+Peter10 ELTE highjump 19 run100 21
+Peter11 ELTE run100 22
+Peter12 ELTE run100 23
+Daniel BME highjump 20 run100 24

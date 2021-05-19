@@ -1,0 +1,8 @@
+Computer 134000
+Phone 20000
+Phone 10000
+Phone 20000
+Phone 40000
+Lamp 4000
+Computer 240000
+Lamp 1500

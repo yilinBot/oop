@@ -1,0 +1,333 @@
+# depslib dependency file v1.0
+1524128658 source:c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\main.cpp
+	<iostream>
+	"vasarlo.h"
+
+1524259570 "
+
+1524413156 c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\vasarlo.h
+	"uzlet.h"
+	<string>
+	<vector>
+
+1554910886 
+
+1524259570 c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\uzlet.h
+	"reszleg.h"
+
+1524413748 c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\reszleg.h
+	"aru.h"
+	<vector>
+
+1524257832 c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\aru.h
+	<string>
+
+1524413764 source:c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\reszleg.cpp
+	"reszleg.h"
+	<fstream>
+
+1524258682 source:c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\uzlet.cpp
+	"uzlet.h"
+
+1524413178 source:c:\users\grego\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\vasarlo.cpp
+	<iostream>
+	"vasarlo.h"
+	<fstream>
+	<string>
+
+1541009819 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\department.cpp
+	"department.h"
+	<fstream>
+
+1541009134 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\department.h
+	"product.h"
+	<vector>
+
+1541009134 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\product.h
+	<string>
+
+1541009413 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\main.cpp
+	<iostream>
+	"customer.h"
+
+1541009414 h"
+
+1541008930 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1541009148 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\store.h
+	"department.h"
+
+1554910882 t.h"
+
+1541008930 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\store.cpp
+	"Store.h"
+
+1541009819 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vásárlás\vasarlas\customer.cpp
+	<iostream>
+	"customer.h"
+	<fstream>
+	<string>
+
+1541009820 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\department.cpp
+	"department.h"
+	<fstream>
+
+1541009136 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\department.h
+	"product.h"
+	<vector>
+
+1541009136 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\product.h
+	<string>
+
+1541009414 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\main.cpp
+	<iostream>
+	"customer.h"
+
+1541193858 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1541009150 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\store.h
+	"department.h"
+
+1541008932 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\vasarlas\store.cpp
+	"Store.h"
+
+1541197468 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\customer.cpp
+	<iostream>
+	"customer.h"
+	<fstream>
+	<string>
+
+1541197460 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1554909538 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\store.h
+	"department.h"
+
+1554909538 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\department.h
+	"product.h"
+	<vector>
+
+1541012736 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\product.h
+	<string>
+
+1554913027 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\department.cpp
+	"department.h"
+	<fstream>
+
+1554913059 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\store.cpp
+	"Store.h"
+
+1554909067 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas0\main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1554913027 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\department.cpp
+	"department.h"
+	<fstream>
+
+1554909538 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\department.h
+	"product.h"
+	<vector>
+
+1541012736 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\product.h
+	<string>
+
+1554916136 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1554914001 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1554914481 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\store.h
+	"department.h"
+
+1554914485 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\store.cpp
+	"Store.h"
+
+1554914498 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\vasarlas\customer.cpp
+	<iostream>
+	"customer.h"
+	<fstream>
+	<string>
+
+1555021969 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\department.cpp
+	"department.h"
+	<fstream>
+
+1555022031 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\department.h
+	"product.h"
+	<vector>
+
+1541012736 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\product.h
+	<string>
+
+1554916138 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1555022891 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1554914482 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\store.h
+	"department.h"
+
+1554914486 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\store.cpp
+	"Store.h"
+
+1555021734 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\vasarlas\customer.cpp
+	<iostream>
+	"customer.h"
+	<fstream>
+	<string>
+
+1555019291 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\customer.cpp
+	<iostream>
+	"customer.h"
+	<fstream>
+	<string>
+
+1555019291 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1554910882 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\store.h
+	"department.h"
+
+1584958708 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\department.h
+	"product.h"
+	<vector>
+
+1541009136 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\product.h
+	<string>
+
+1555018369 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\department.cpp
+	"department.h"
+	<fstream>
+
+1554912538 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1554910886 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\programok\vasarlas\store.cpp
+	"Store.h"
+
+1584962276 source:/home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/customer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"customer.h"
+	"product.h"
+
+1555019290 /home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1554910882 /home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/store.h
+	"department.h"
+
+1584962308 /home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/department.h
+	"product.h"
+	<vector>
+
+1541012736 /home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/product.h
+	<string>
+
+1555018368 source:/home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/department.cpp
+	"department.h"
+	<fstream>
+
+1554912538 source:/home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1586778350 source:/home/bli/Dropbox/oktatas/oep/2020/demos/vasarlas/store.cpp
+	"store.h"
+
+1586874059 source:/home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/customer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"customer.h"
+	"product.h"
+
+1555019290 /home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1554910882 /home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/store.h
+	"department.h"
+
+1584962308 /home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/department.h
+	"product.h"
+	<vector>
+
+1541012736 /home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/product.h
+	<string>
+
+1555018368 source:/home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/department.cpp
+	"department.h"
+	<fstream>
+
+1554912538 source:/home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1586778350 source:/home/bli/dbx/Dropbox/oktatas/oep/2020/demos/vasarlas/store.cpp
+	"store.h"
+
+1587216815 source:/home/bli/Dropbox/oktatas/oep/2020/demos/store/customer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"customer.h"
+	"product.h"
+
+1555019290 /home/bli/Dropbox/oktatas/oep/2020/demos/store/customer.h
+	"store.h"
+	<string>
+	<vector>
+
+1587216741 /home/bli/Dropbox/oktatas/oep/2020/demos/store/store.h
+	"department.h"
+
+1584962308 /home/bli/Dropbox/oktatas/oep/2020/demos/store/department.h
+	"product.h"
+	<vector>
+
+1541012736 /home/bli/Dropbox/oktatas/oep/2020/demos/store/product.h
+	<string>
+
+1587216695 source:/home/bli/Dropbox/oktatas/oep/2020/demos/store/department.cpp
+	"department.h"
+	<fstream>
+
+1554912538 source:/home/bli/Dropbox/oktatas/oep/2020/demos/store/main.cpp
+	<iostream>
+	"customer.h"
+	"store.h"
+
+1586778350 source:/home/bli/Dropbox/oktatas/oep/2020/demos/store/store.cpp
+	"store.h"
+

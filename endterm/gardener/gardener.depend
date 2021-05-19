@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1524729320 source:e:\oep\kertesz\main.cpp
+	<iostream>
+	"kertesz.h"
+
+1524729320 "
+
+1524727310 source:e:\oep\kertesz\parcella.cpp
+	"parcella.h"
+
+1524725072 h"
+
+1524728770 e:\oep\kertesz\parcella.h
+	"noveny.h"
+
+1555653754 
+
+1524728052 e:\oep\kertesz\noveny.h
+
+1524729328 source:e:\oep\kertesz\kertesz.cpp
+	"kertesz.h"
+	"kert.h"
+	"parcella.h"
+	<iostream>
+
+1524729472 e:\oep\kertesz\kertesz.h
+	"kert.h"
+
+1555653754 
+
+1524728672 e:\oep\kertesz\kert.h
+	<vector>
+	"parcella.h"
+
+1524740452 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\kertesz.cpp
+	"kertesz.h"
+	"kert.h"
+	"parcella.h"
+	<iostream>
+
+1524737195 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\kertesz.h
+	"kert.h"
+
+1524728672 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\kert.h
+	<vector>
+	"parcella.h"
+
+1524737244 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\parcella.h
+	"noveny.h"
+
+1524739464 c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\noveny.h
+
+1524740327 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\main.cpp
+	<iostream>
+	"kertesz.h"
+	"noveny.h"
+
+1524738707 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\08-10.gyakorlat\kertesz\noveny.cpp
+	"noveny.h"
+
+1524737024 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\kertesz.cpp
+	"kertesz.h"
+	"kert.h"
+	"parcella.h"
+	<iostream>
+
+1524733596 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\kertesz.h
+	"kert.h"
+
+1524725072 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\kert.h
+	<vector>
+	"parcella.h"
+
+1524733646 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\parcella.h
+	"noveny.h"
+
+1524735866 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\noveny.h
+
+1541007162 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\main.cpp
+	<iostream>
+	"gardener.h"
+	"plant.h"
+
+1524735108 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\noveny.cpp
+	"noveny.h"
+
+1541006193 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\plant.cpp
+	"plant.h"
+
+1541006193 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\plant.h
+
+1541006436 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\gardener.cpp
+	"gardener.h"
+	"garden.h"
+	"parcel.h"
+	<iostream>
+
+1541006746 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\gardener.h
+	"garden.h"
+
+1541007454 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\garden.h
+	"parcel.h"
+	<vector>
+
+1541006215 c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\parcel.h
+	"plant.h"
+
+1541007374 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\garden.cpp
+	"garden.h"
+
+1541007376 source:c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\garden.cpp
+	"garden.h"
+
+1541007456 c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\garden.h
+	"parcel.h"
+	<vector>
+
+1541006216 c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\parcel.h
+	"plant.h"
+
+1542818087 c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\plant.h
+
+1541007456 source:c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\main.cpp
+	<iostream>
+	"gardener.h"
+	"plant.h"
+
+1541006748 c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\gardener.h
+	"garden.h"
+
+1541006194 source:c:\users\grego\documents\oktat\oep\gyakorlatok\07-10.gyakorlat\kertesz\plant.cpp
+	"plant.h"
+
+1541010976 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\garden.cpp
+	"garden.h"
+
+1556286029 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\garden.h
+	"parcel.h"
+	<vector>
+
+1541009816 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\parcel.h
+	"plant.h"
+
+1542821688 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\plant.h
+
+1541009794 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\plant.cpp
+	"plant.h"
+
+1555653754 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\main.cpp
+	<iostream>
+	"gardener.h"
+	"plant.h"
+
+1555653754 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-10.gyakorlat\kertesz\gardener.h
+	"garden.h"
+
+1556282428 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gardener/garden.cpp
+	"garden.h"
+
+1556282428 /home/bli/Dropbox/oktatas/oep/2020/demos/gardener/garden.h
+	"parcel.h"
+	<vector>
+
+1541009816 /home/bli/Dropbox/oktatas/oep/2020/demos/gardener/parcel.h
+	"plant.h"
+
+1587220571 /home/bli/Dropbox/oktatas/oep/2020/demos/gardener/plant.h
+
+1555650154 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gardener/main.cpp
+	<iostream>
+	"gardener.h"
+	"plant.h"
+
+1555650154 /home/bli/Dropbox/oktatas/oep/2020/demos/gardener/gardener.h
+	"garden.h"
+
+1541009794 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gardener/plant.cpp
+	"plant.h"
+

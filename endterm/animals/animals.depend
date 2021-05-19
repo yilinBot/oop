@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1556006397 source:/home/bli/projects/animals/main.cpp
+	<iostream>
+	<vector>
+	"cat.h"
+	"dog.h"
+	"hamster.h"
+	"lion.h"
+	"wolf.h"
+
+1556007502 /home/bli/projects/animals/cat.h
+	<iostream>
+	"pet.h"
+
+1556006032 /home/bli/projects/animals/pet.h
+	<iostream>
+	"animal.h"
+
+1556005813 /home/bli/projects/animals/animal.h
+	<iostream>
+
+1556007511 /home/bli/projects/animals/dog.h
+	<iostream>
+	"pet.h"
+
+1556007520 /home/bli/projects/animals/hamster.h
+	<iostream>
+	"pet.h"
+
+1556007527 /home/bli/projects/animals/lion.h
+	<iostream>
+	"wild_animal.h"
+
+1556006061 /home/bli/projects/animals/wild_animal.h
+	<iostream>
+	"animal.h"
+
+1556007544 /home/bli/projects/animals/wolf.h
+	<iostream>
+	"wild_animal.h"
+

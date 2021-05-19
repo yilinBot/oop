@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1619003771 source:/home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/cash.cpp
+	"cash.h"
+	"petrol.h"
+	"pump.h"
+
+1586079964 /home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/cash.h
+
+1618489832 /home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/petrol.h
+	<vector>
+
+1588779230 /home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/pump.h
+	"cash.h"
+
+1584947684 source:/home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/main.cpp
+	<iostream>
+	<sstream>
+	"petrol.h"
+	"car.h"
+
+1618489760 /home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/car.h
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1618489926 source:/home/bli/Dropbox/oktatas/oop/2021/codeblocks/petrolStation/petrol.cpp
+	"petrol.h"
+	"pump.h"
+	"cash.h"
+

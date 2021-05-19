@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1516031794 source:e:\oop\0122\fact\main.cpp
+	<iostream>
+	<cmath>
+	"library/summation.hpp"
+	"library/enumerator.hpp"
+	"library/intervallenumerator.hpp"
+
+1502814932 e:\oop\0122\fact\library\summation.hpp
+	"procedure.hpp"
+
+1510737978 e:\oop\0122\fact\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502810830 e:\oop\0122\fact\library\enumerator.hpp
+
+1516031836 e:\oop\0122\fact\library\intervallenumerator.hpp
+	"enumerator.hpp"
+
+1542901497 source:c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\fact\main.cpp
+	<iostream>
+	<cmath>
+	"../library/summation.hpp"
+	"../library/intervalenumerator.hpp"
+
+1522748222 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\fact\library\summation.hpp
+	"procedure.hpp"
+
+1522748394 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\fact\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502810830 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\fact\library\enumerator.hpp
+
+1516652960 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\fact\library\intervalenumerator.hpp
+	"enumerator.hpp"
+
+1542901612 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1541874282 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502810830 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1536082478 c:\users\gt\documents\oktatás\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\intervalenumerator.hpp
+	"enumerator.hpp"
+
+1556836928 source:c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\fact\main.cpp
+	<iostream>
+	<cmath>
+	"../library/summation.hpp"
+	"../library/intervalenumerator.hpp"
+
+1547543802 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555652084 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502814430 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1536086078 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\intervalenumerator.hpp
+	"enumerator.hpp"
+

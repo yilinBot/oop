@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1542978369 source:c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\maxisland\main.cpp
+	<iostream>
+	<vector>
+	"../../library/seqinfileenumerator.hpp"
+	"../../library/maxsearch.hpp"
+	"../../library/counting.hpp"
+	"../../library/selection.hpp"
+
+1542978369 rary/selection.hpp"
+
+1535995980 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1560182796 r.hpp"
+
+1502810830 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\enumerator.hpp
+
+1539603706 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\maxsearch.hpp
+	"procedure.hpp"
+
+1536086406 .hpp"
+
+1542978440 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1537807750 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\counting.hpp
+	"summation.hpp"
+
+1539494642 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1558953710 
+
+1536082806 c:\users\grego\documents\oktat\oep\gyakorlatok\11.gyakorlat\library\selection.hpp
+	"procedure.hpp"
+
+1542999942 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\maxisland\main.cpp
+	<iostream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/maxsearch.hpp"
+	"../library/counting.hpp"
+	"../library/selection.hpp"
+
+1587630594 y/selection.hpp"
+
+1535999580 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502814430 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\enumerator.hpp
+
+1547542000 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\maxsearch.hpp
+	"procedure.hpp"
+
+1555652084 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1555652084 
+
+1537811350 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\counting.hpp
+	"summation.hpp"
+
+1547543802 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1536086406 c:\users\tibi\documents\oktat\oep\gyakorlatok\11.gyakorlat\újrafelhasználás\library\selection.hpp
+	"procedure.hpp"
+
+1587630594 source:c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\maxisland\main.cpp
+	<iostream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/maxsearch.hpp"
+	"../library/counting.hpp"
+	"../library/selection.hpp"
+
+1560182796 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502814430 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\enumerator.hpp
+
+1547542000 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\maxsearch.hpp
+	"procedure.hpp"
+
+1555652084 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1537811350 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\counting.hpp
+	"summation.hpp"
+
+1558953710 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1536086406 c:\users\tibi\documents\oktat\oep\gyakorlatok\08-11.gyakorlat\11.gy\programok\library\selection.hpp
+	"procedure.hpp"
+
+1587851056 source:/home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/extra_maxisland/main.cpp
+	<iostream>
+	<vector>
+	"../library/seqinfileenumerator.hpp"
+	"../library/maxsearch.hpp"
+	"../library/counting.hpp"
+	"../library/selection.hpp"
+
+1560179196 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/enumerator.hpp
+
+1547542000 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/maxsearch.hpp
+	"procedure.hpp"
+
+1555648484 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1537807750 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/counting.hpp
+	"summation.hpp"
+
+1558950110 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1536082806 /home/bli/Dropbox/oktatas/oep/2020/demos/gtlib/library/selection.hpp
+	"procedure.hpp"
+
